@@ -1,6 +1,6 @@
 # Scantify - Face Detect Application
 * Face detect app is a web application that utilizes Clarifai API to indentify any face from an image address. 
-* The website was designed using React.
+* The website was designed using React.js.
 * The server was built using Node & Express.js and connected to a PostgreSQL database.
 * The site keeps track of each user's activity to rank the most active users. 
 
