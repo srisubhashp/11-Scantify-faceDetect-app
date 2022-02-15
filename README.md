@@ -10,6 +10,6 @@
  - <strong> Back-End: </strong> PostgreSQL
  - <strong> NPM Packages: </strong> Tachyons, react-tilt, particles.js, Bcrypt, PostgreSQL, knex, body-parser, cors, express
  
- ![picture of the app](https://www.linkpicture.com/q/face-detect-2.png)
- 
+ ![image](https://user-images.githubusercontent.com/55814483/154109322-cd0d8ff9-2f17-41fc-847b-eac3094eb1b5.png)
+
  
